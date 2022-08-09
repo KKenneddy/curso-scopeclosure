@@ -15,13 +15,13 @@ let fruit = 'Apple';//Declarar / Asignar
 fruit = 'Kiwi';//reasignando
 console.log(fruit)
 
-let fruit = 'Banana';
+//let fruit = 'Banana';
 console.log(fruit);//No se puede redeclarar
 
 //Const 
 const animal = 'Dog';
 //animal = 'Cat';
-const animal = 'Snake';
+//const animal = 'Snake';
 console.log(animal);
 
 const vehicles = [];
