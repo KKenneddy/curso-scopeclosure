@@ -1,0 +1,2 @@
+# curso-scopeclosure
+Aprendiendo js
